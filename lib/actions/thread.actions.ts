@@ -54,7 +54,7 @@ export async function fetchPosts(pageNumber = 1, pageSize = 20) {
       path: "children",
       populate: {
         path: "author",
-        model: "user",
+        model: "User",
         select: "_id name parentId image",
       },
     });
