@@ -1,36 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![Threads signin](https://github.com/NicholasCloud4/Threads-clone/assets/91276870/a69af817-4e87-408e-8fb6-5f317786ba76)
+![On Boarding](https://github.com/NicholasCloud4/Threads-clone/assets/91276870/7c528ed3-3ecd-4fc2-b3ec-c3373c9afe55)
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Threads1](https://github.com/NicholasCloud4/Threads-clone/assets/91276870/8c04254a-72c8-40fd-9364-ff406e2fb28b)
+![Threads2](https://github.com/NicholasCloud4/Threads-clone/assets/91276870/a21d3913-1020-43d1-a3f9-2bee50f1ba87)
+![Threads3](https://github.com/NicholasCloud4/Threads-clone/assets/91276870/c3acdf24-62b8-4ba8-aa7c-de8c642b1856)
+![Threads4](https://github.com/NicholasCloud4/Threads-clone/assets/91276870/35d0c439-72ae-4fa6-9458-43847de40e39)
+![Threads5](https://github.com/NicholasCloud4/Threads-clone/assets/91276870/b2a76dd5-94ba-4f0a-9dd3-3f6165a31514)
